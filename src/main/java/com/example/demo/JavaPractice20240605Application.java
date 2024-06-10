@@ -11,3 +11,4 @@ public class JavaPractice20240605Application {
 	}
 
 }
+//このあと上のメソッドを作りにいくか、全然ちがうのをつくる
